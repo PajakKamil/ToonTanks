@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kpaja\\Documents\\Unreal Projects\\UE4_ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"C:\\Users\\kpaja\\Documents\\Unreal Projects\\UE4_ToonTanks\\Source\\ToonTanks.Target.cs",
+		"C:\\Users\\kpaja\\Documents\\Unreal Projects\\UE4_ToonTanks\\Source\\ToonTanksEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
